@@ -1,0 +1,19 @@
+NINE CROWNS 1.6.0 - CARICAMENTO GITHUB
+
+1. Estrai questo ZIP.
+2. Carica IL CONTENUTO della cartella estratta nella root del repository GitHub.
+3. Nella root devono vedersi almeno:
+   .github/
+   src/
+   build.gradle
+   settings.gradle
+   gradle.properties
+4. Vai in Actions > Build NineCrowns > Run workflow.
+5. Quando la build è verde, scarica l'Artifact:
+   NineCrowns-26.3-v1.6.0-VERIFIED
+6. Estrai l'artifact e metti il JAR in mods.
+
+Per vedere le ricette in gioco:
+- installa JEI per Fabric 26.3 sul client;
+- cerca "Nine Crowns" / OP Sword / OP Spear / Emperor Crown;
+- oppure usa /ninecrowns recipes.

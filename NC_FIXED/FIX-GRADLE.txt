@@ -1,0 +1,5 @@
+FIX BUILD 26.3
+---------------
+Fabric Loom 1.18.2 requires the Gradle plugin API 9.7.
+The previous workflow forced Gradle 9.5.1, causing the 'No matching variant' error.
+This package pins Loom 1.18.2 and uses Gradle 9.7.1.
